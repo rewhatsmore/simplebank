@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Thu Jun 16 10:03:53 2022
+# Make data base, printed on Mon Jul 04 14:32:29 2022
 
 # Variables
 
@@ -23,7 +23,7 @@ USERPROFILE = C:\Users\maxim
 # environment
 LOCALAPPDATA = C:\Users\maxim\AppData\Local
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-bfb54f55-5115-4171-8134-9e69b7a21e9a-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-ff223abc-c8af-42df-af8b-42002ee532d1-sock
 # environment
 VSCODE_CWD = C:\Users\maxim\AppData\Local\Programs\Microsoft VS Code
 # environment
@@ -41,7 +41,7 @@ GOPATH = C:\Users\maxim\go
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_10272_UTFHRTEDMBJCYOGU
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_10864_AMINGJQVLZLFYOMM
 # environment
 FPS_BROWSER_USER_PROFILE_STRING = Default
 # environment
@@ -57,7 +57,7 @@ VSCODE_LOG_STACK = false
 # automatic
 %F = $(notdir $%)
 # environment
-VSCODE_CODE_CACHE_PATH = C:\Users\maxim\AppData\Roaming\Code\CachedData\c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5
+VSCODE_CODE_CACHE_PATH = C:\Users\maxim\AppData\Roaming\Code\CachedData\30d9c6cd9483b2cc586687151bcbcd635f373630
 # environment
 LANG = C
 # default
@@ -99,7 +99,7 @@ MAKEFILE_LIST := Makefile
 # environment
 VSCODE_VERBOSE_LOGGING = true
 # environment
-VSCODE_PID = 10272
+VSCODE_PID = 10864
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # automatic
@@ -195,7 +195,7 @@ ELECTRON_RUN_AS_NODE = 1
 # environment
 TEMP = C:\Users\maxim\AppData\Local\Temp
 # environment
-VSCODE_IPC_HOOK = \\.\pipe\ad74cb98866bcd06afdc75607acb6f73-1.67.2-main-sock
+VSCODE_IPC_HOOK = \\.\pipe\ad74cb98866bcd06afdc75607acb6f73-1.68.1-main-sock
 # environment
 GOPROXY = https://proxy.golang.org,direct
 # default
@@ -226,9 +226,9 @@ PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
 
 # Directories
 
-# . (key c:/Users/maxim/�������/simplebank, mtime 1654699439): 8 files, no impossibilities.
+# . (key c:/Users/maxim/�������/simplebank, mtime 1656930165): 9 files, no impossibilities.
 
-# 8 files, no impossibilities in 1 directories.
+# 9 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -367,12 +367,12 @@ createdb:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 27 / storage = 186 B / avg = 6 B
-# current buf: size = 8174 B / used = 186 B / count = 27 / avg = 6 B
+# strcache buffers: 1 (0) / strings = 28 / storage = 191 B / avg = 6 B
+# current buf: size = 8174 B / used = 191 B / count = 28 / avg = 6 B
 
-# strcache performance: lookups = 51 / hit rate = 47%
+# strcache performance: lookups = 52 / hit rate = 46%
 # hash-table stats:
-# Load=27/8192=0%, Rehash=0, Collisions=0/51=0%
-# Finished Make data base on Thu Jun 16 10:03:53 2022
+# Load=28/8192=0%, Rehash=0, Collisions=0/52=0%
+# Finished Make data base on Mon Jul 04 14:32:29 2022
 
  
