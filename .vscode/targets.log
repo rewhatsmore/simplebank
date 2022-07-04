@@ -1,0 +1,378 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+make: *** No rule to make target 'all'.  Stop.
+
+# GNU Make 4.3
+# Built for Windows32
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+
+# Make data base, printed on Thu Jun 16 10:03:53 2022
+
+# Variables
+
+# environment
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+# environment
+SYSTEMDRIVE = C:
+# environment
+LC_ALL = C
+# environment
+USERPROFILE = C:\Users\maxim
+# environment
+LOCALAPPDATA = C:\Users\maxim\AppData\Local
+# environment
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-bfb54f55-5115-4171-8134-9e69b7a21e9a-sock
+# environment
+VSCODE_CWD = C:\Users\maxim\AppData\Local\Programs\Microsoft VS Code
+# environment
+CHOCOLATEYINSTALL = C:\ProgramData\chocolatey
+# environment
+SYSTEMROOT = C:\WINDOWS
+# environment
+PROCESSOR_LEVEL = 6
+# environment
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+# default
+MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
+# environment
+GOPATH = C:\Users\maxim\go
+# automatic
+@D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_10272_UTFHRTEDMBJCYOGU
+# environment
+FPS_BROWSER_USER_PROFILE_STRING = Default
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# automatic
+%D = $(patsubst %/,%,$(patsubst %\,%,$(dir $%)))
+# automatic
+^D = $(patsubst %/,%,$(patsubst %\,%,$(dir $^)))
+# environment
+VSCODE_LOG_STACK = false
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\maxim\AppData\Roaming\Code\CachedData\c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5
+# environment
+LANG = C
+# default
+.LOADED := 
+# environment
+TMP = C:\Users\maxim\AppData\Local\Temp
+# default
+.INCLUDE_DIRS = .
+# environment
+PROCESSOR_ARCHITEW6432 = AMD64
+# makefile
+MAKEFLAGS = pqrR
+# environment
+ONEDRIVE = C:\Users\maxim\OneDrive
+# makefile
+CURDIR := c:/Users/maxim/�������/simplebank
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# environment
+GOLAND = C:\Program Files\JetBrains\GoLand 2021.3\bin;
+# automatic
+*D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
+# environment
+PROGRAMFILES = C:\Program Files (x86)
+# environment
+MFLAGS = -pqrR
+# default
+.SHELLFLAGS := -c
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# automatic
++D = $(patsubst %/,%,$(patsubst %\,%,$(dir $+)))
+# makefile (from 'Makefile', line 1)
+MAKEFILE_LIST := Makefile
+# automatic
+@F = $(notdir $@)
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+VSCODE_PID = 10272
+# automatic
+?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
+# automatic
+*F = $(notdir $*)
+# automatic
+<D = $(patsubst %/,%,$(patsubst %\,%,$(dir $<)))
+# environment
+VSCODE_NLS_CONFIG = {"locale":"ru","availableLanguages":{},"_languagePackSupport":true}
+# default
+MAKE_HOST := Windows32
+# environment
+PROGRAMDATA = C:\ProgramData
+# default
+SHELL := sh.exe
+# environment
+HOMEPATH = \Users\maxim
+# default
+MAKECMDGOALS := all
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+COMSPEC = C:\WINDOWS\system32\cmd.exe
+# environment
+WINDIR = C:\WINDOWS
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+PATH = C:\Python310\Scripts\;C:\Python310\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Yarn\bin\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Go\bin;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\maxim\scoop\shims;C:\Users\maxim\AppData\Local\Microsoft\WindowsApps;C:\Users\maxim\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\maxim\AppData\Local\Yarn\bin;C:\wamp64\bin\php\php7.3.5;C:\Users\maxim\AppData\Roaming\Composer\vendor\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2020.1\bin;;C:\Program Files\heroku\bin;C:\Users\maxim\go\bin;C:\Program Files\JetBrains\GoLand 2021.3\bin;;C:\Users\maxim\AppData\Local\GitHubDesktop\bin;C:\Users\maxim\AppData\Roaming\npm
+# environment
+COMPUTERNAME = DESKTOP-AF6TE02
+# default
+MAKEFILES := 
+# automatic
+^F = $(notdir $^)
+# environment
+PROMPT = $P$G
+# environment
+CHOCOLATEYLASTPATHUPDATE = 132986340398587322
+# environment
+LOGONSERVER = \\DESKTOP-AF6TE02
+# environment
+VSCODE_LOG_NATIVE = false
+# environment
+USERNAME = maxim
+# environment
+COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
+# automatic
+?F = $(notdir $?)
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+# automatic
++F = $(notdir $+)
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+USERDOMAIN = DESKTOP-AF6TE02
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+OS = Windows_NT
+# makefile
+.DEFAULT_GOAL := postgres
+# default
+MAKE_VERSION := 4.3
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# environment
+USERDOMAIN_ROAMINGPROFILE = DESKTOP-AF6TE02
+# environment
+NUMBER_OF_PROCESSORS = 4
+# environment
+PUBLIC = C:\Users\Public
+# environment
+APPDATA = C:\Users\maxim\AppData\Roaming
+# environment
+HOMEDRIVE = C:
+# environment
+PROCESSOR_ARCHITECTURE = x86
+# environment
+PYCHARM COMMUNITY EDITION = C:\Program Files\JetBrains\PyCharm Community Edition 2020.1\bin;
+# environment
+GOMODCACHE = C:\Users\maxim\go\pkg\mod
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+TEMP = C:\Users\maxim\AppData\Local\Temp
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\ad74cb98866bcd06afdc75607acb6f73-1.67.2-main-sock
+# environment
+GOPROXY = https://proxy.golang.org,direct
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# default
+SUFFIXES := 
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# environment
+SESSIONNAME = Console
+# default
+.FEATURES := target-specific order-only second-expans 
+ion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync load
+# environment
+PROCESSOR_REVISION = 4e03
+# environment
+COMPOSE_CONVERT_WINDOWS_PATHS = true
+# environment
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
+# variable set hash-table stats:
+# Load=102/1024=10%, Rehash=0, Collisions=11/130=8%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (key c:/Users/maxim/�������/simplebank, mtime 1654699439): 8 files, no impossibilities.
+
+# 8 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+--rm: /src -w /src kjconroy/sqlc generate
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+migratedown:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 14):
+	migrate -path db/migration -database "postgresql://root:reginapost@localhost:5432/simple_bank?sslmode=disable" -verbose down
+
+# Not a target:
+generate:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+docker: /src -w /src kjconroy/sqlc generate
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-09 13:29:15
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+kjconroy/sqlc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+dropdb:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 8):
+	docker exec -it postgres14 dropdb simple_bank
+
+migrateup:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 11):
+	migrate -path db/migration -database "postgresql://root:reginapost@localhost:5432/simple_bank?sslmode=disable" -verbose up	
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+all:
+#  Command line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+
+run: /src -w /src kjconroy/sqlc generate
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+-v: /src -w /src kjconroy/sqlc generate
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+test:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 20):
+	go test -v -cover ./...
+
+sqlc:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+# Not a target:
+/src:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+postgres:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 2):
+	docker run --name postgres14 -p 5432:5432 -e POSTGRES_USER=root -e POSTGRES_PASSWORD=reginapost -d postgres:14-alpine
+
+# Not a target:
+-w:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+createdb:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 5):
+	docker exec -it postgres14 createdb --username=root --owner=root simple_bank
+
+.PHONY: postgres createdb dropdb migrateup migratedown sqlc test
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# files hash-table stats:
+# Load=20/1024=2%, Rehash=0, Collisions=0/42=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 27 / storage = 186 B / avg = 6 B
+# current buf: size = 8174 B / used = 186 B / count = 27 / avg = 6 B
+
+# strcache performance: lookups = 51 / hit rate = 47%
+# hash-table stats:
+# Load=27/8192=0%, Rehash=0, Collisions=0/51=0%
+# Finished Make data base on Thu Jun 16 10:03:53 2022
+
+ 
