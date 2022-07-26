@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Fri Jul 22 13:22:14 2022
+# Make data base, printed on Tue Jul 26 13:04:17 2022
 
 # Variables
 
@@ -39,7 +39,7 @@ GOPATH = C:\Users\maxim\go
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_9360_PMKBNNLJQTGAYNSP
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_8968_QEKINOWKVNZJTHRG
 # environment
 FPS_BROWSER_USER_PROFILE_STRING = Default
 # environment
@@ -71,7 +71,7 @@ ONEDRIVE = C:\Users\maxim\OneDrive
 # makefile
 CURDIR := c:/Users/maxim/�������/simplebank
 # environment
-APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
 # environment
 GOLAND = C:\Program Files\JetBrains\GoLand 2021.3\bin;
 # automatic
@@ -91,7 +91,7 @@ MAKEFILE_LIST := Makefile
 # automatic
 @F = $(notdir $@)
 # environment
-VSCODE_PID = 9360
+VSCODE_PID = 8968
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # automatic
@@ -121,7 +121,7 @@ MAKELEVEL := 0
 # default
 MAKE = $(MAKE_COMMAND)
 # environment
-PATH = C:\Python310\Scripts\;C:\Python310\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Yarn\bin\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Go\bin;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\maxim\scoop\shims;C:\Users\maxim\AppData\Local\Microsoft\WindowsApps;C:\Users\maxim\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\maxim\AppData\Local\Yarn\bin;C:\wamp64\bin\php\php7.3.5;C:\Users\maxim\AppData\Roaming\Composer\vendor\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2020.1\bin;;C:\Program Files\heroku\bin;C:\Users\maxim\go\bin;C:\Program Files\JetBrains\GoLand 2021.3\bin;;C:\Users\maxim\AppData\Local\GitHubDesktop\bin;C:\Users\maxim\AppData\Roaming\npm
+PATH = C:\Python310\Scripts\;C:\Python310\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Yarn\bin\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\Users\maxim\scoop\shims;C:\Users\maxim\AppData\Local\Microsoft\WindowsApps;C:\Users\maxim\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\maxim\AppData\Local\Yarn\bin;C:\wamp64\bin\php\php7.3.5;C:\Users\maxim\AppData\Roaming\Composer\vendor\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2020.1\bin;;C:\Program Files\heroku\bin;C:\Users\maxim\go\bin;C:\Program Files\JetBrains\GoLand 2021.3\bin;;C:\Users\maxim\AppData\Local\GitHubDesktop\bin;C:\Users\maxim\AppData\Roaming\npm;C:\Users\maxim\go\bin
 # environment
 COMPUTERNAME = DESKTOP-AF6TE02
 # default
@@ -154,8 +154,6 @@ USERDOMAIN = DESKTOP-AF6TE02
 GNUMAKEFLAGS := 
 # environment
 OS = Windows_NT
-# environment
-__COMPAT_LAYER = DetectorsAppHealth
 # makefile
 .DEFAULT_GOAL := postgres
 # default
@@ -209,7 +207,7 @@ COMPOSE_CONVERT_WINDOWS_PATHS = true
 # environment
 PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
 # variable set hash-table stats:
-# Load=98/1024=10%, Rehash=0, Collisions=10/126=8%
+# Load=97/1024=9%, Rehash=0, Collisions=10/125=8%
 
 # Pattern-specific Variable Values
 
@@ -217,9 +215,9 @@ PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
 
 # Directories
 
-# . (key c:/Users/maxim/�������/simplebank, mtime 1658335944): 16 files, no impossibilities.
+# . (key c:/Users/maxim/�������/simplebank, mtime 1658827114): 17 files, no impossibilities.
 
-# 16 files, no impossibilities in 1 directories.
+# 17 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -390,12 +388,12 @@ createdb:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 39 / storage = 279 B / avg = 7 B
-# current buf: size = 8174 B / used = 279 B / count = 39 / avg = 7 B
+# strcache buffers: 1 (0) / strings = 40 / storage = 290 B / avg = 7 B
+# current buf: size = 8174 B / used = 290 B / count = 40 / avg = 7 B
 
-# strcache performance: lookups = 71 / hit rate = 45%
+# strcache performance: lookups = 72 / hit rate = 44%
 # hash-table stats:
-# Load=39/8192=0%, Rehash=0, Collisions=0/71=0%
-# Finished Make data base on Fri Jul 22 13:22:14 2022
+# Load=40/8192=0%, Rehash=0, Collisions=0/72=0%
+# Finished Make data base on Tue Jul 26 13:04:17 2022
 
  
