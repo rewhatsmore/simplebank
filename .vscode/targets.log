@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Mon Jul 04 14:32:29 2022
+# Make data base, printed on Tue Jul 26 13:04:17 2022
 
 # Variables
 
@@ -22,8 +22,6 @@ LC_ALL = C
 USERPROFILE = C:\Users\maxim
 # environment
 LOCALAPPDATA = C:\Users\maxim\AppData\Local
-# environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-ff223abc-c8af-42df-af8b-42002ee532d1-sock
 # environment
 VSCODE_CWD = C:\Users\maxim\AppData\Local\Programs\Microsoft VS Code
 # environment
@@ -41,7 +39,7 @@ GOPATH = C:\Users\maxim\go
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_10864_AMINGJQVLZLFYOMM
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_8968_QEKINOWKVNZJTHRG
 # environment
 FPS_BROWSER_USER_PROFILE_STRING = Default
 # environment
@@ -52,12 +50,10 @@ VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 %D = $(patsubst %/,%,$(patsubst %\,%,$(dir $%)))
 # automatic
 ^D = $(patsubst %/,%,$(patsubst %\,%,$(dir $^)))
-# environment
-VSCODE_LOG_STACK = false
 # automatic
 %F = $(notdir $%)
 # environment
-VSCODE_CODE_CACHE_PATH = C:\Users\maxim\AppData\Roaming\Code\CachedData\30d9c6cd9483b2cc586687151bcbcd635f373630
+VSCODE_CODE_CACHE_PATH = C:\Users\maxim\AppData\Roaming\Code\CachedData\3b889b090b5ad5793f524b5d1d39fda662b96a2a
 # environment
 LANG = C
 # default
@@ -75,9 +71,7 @@ ONEDRIVE = C:\Users\maxim\OneDrive
 # makefile
 CURDIR := c:/Users/maxim/�������/simplebank
 # environment
-VSCODE_PIPE_LOGGING = true
-# environment
-APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
 # environment
 GOLAND = C:\Program Files\JetBrains\GoLand 2021.3\bin;
 # automatic
@@ -97,9 +91,7 @@ MAKEFILE_LIST := Makefile
 # automatic
 @F = $(notdir $@)
 # environment
-VSCODE_VERBOSE_LOGGING = true
-# environment
-VSCODE_PID = 10864
+VSCODE_PID = 8968
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # automatic
@@ -129,7 +121,7 @@ MAKELEVEL := 0
 # default
 MAKE = $(MAKE_COMMAND)
 # environment
-PATH = C:\Python310\Scripts\;C:\Python310\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Yarn\bin\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Go\bin;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\maxim\scoop\shims;C:\Users\maxim\AppData\Local\Microsoft\WindowsApps;C:\Users\maxim\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\maxim\AppData\Local\Yarn\bin;C:\wamp64\bin\php\php7.3.5;C:\Users\maxim\AppData\Roaming\Composer\vendor\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2020.1\bin;;C:\Program Files\heroku\bin;C:\Users\maxim\go\bin;C:\Program Files\JetBrains\GoLand 2021.3\bin;;C:\Users\maxim\AppData\Local\GitHubDesktop\bin;C:\Users\maxim\AppData\Roaming\npm
+PATH = C:\Python310\Scripts\;C:\Python310\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Yarn\bin\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\Users\maxim\scoop\shims;C:\Users\maxim\AppData\Local\Microsoft\WindowsApps;C:\Users\maxim\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\maxim\AppData\Local\Yarn\bin;C:\wamp64\bin\php\php7.3.5;C:\Users\maxim\AppData\Roaming\Composer\vendor\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2020.1\bin;;C:\Program Files\heroku\bin;C:\Users\maxim\go\bin;C:\Program Files\JetBrains\GoLand 2021.3\bin;;C:\Users\maxim\AppData\Local\GitHubDesktop\bin;C:\Users\maxim\AppData\Roaming\npm;C:\Users\maxim\go\bin
 # environment
 COMPUTERNAME = DESKTOP-AF6TE02
 # default
@@ -142,8 +134,6 @@ PROMPT = $P$G
 CHOCOLATEYLASTPATHUPDATE = 132986340398587322
 # environment
 LOGONSERVER = \\DESKTOP-AF6TE02
-# environment
-VSCODE_LOG_NATIVE = false
 # environment
 USERNAME = maxim
 # environment
@@ -195,7 +185,7 @@ ELECTRON_RUN_AS_NODE = 1
 # environment
 TEMP = C:\Users\maxim\AppData\Local\Temp
 # environment
-VSCODE_IPC_HOOK = \\.\pipe\ad74cb98866bcd06afdc75607acb6f73-1.68.1-main-sock
+VSCODE_IPC_HOOK = \\.\pipe\ad74cb98866bcd06afdc75607acb6f73-1.69.2-main-sock
 # environment
 GOPROXY = https://proxy.golang.org,direct
 # default
@@ -209,8 +199,7 @@ ALLUSERSPROFILE = C:\ProgramData
 # environment
 SESSIONNAME = Console
 # default
-.FEATURES := target-specific order-only second-expans 
-ion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync load
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync load
 # environment
 PROCESSOR_REVISION = 4e03
 # environment
@@ -218,7 +207,7 @@ COMPOSE_CONVERT_WINDOWS_PATHS = true
 # environment
 PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
 # variable set hash-table stats:
-# Load=102/1024=10%, Rehash=0, Collisions=11/130=8%
+# Load=97/1024=9%, Rehash=0, Collisions=10/125=8%
 
 # Pattern-specific Variable Values
 
@@ -226,9 +215,9 @@ PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
 
 # Directories
 
-# . (key c:/Users/maxim/�������/simplebank, mtime 1656930165): 9 files, no impossibilities.
+# . (key c:/Users/maxim/�������/simplebank, mtime 1658827114): 17 files, no impossibilities.
 
-# 9 files, no impossibilities in 1 directories.
+# 17 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -246,7 +235,7 @@ migratedown:
 #  Implicit rule search has not been done.
 #  File does not exist.
 #  File has not been updated.
-#  recipe to execute (from 'Makefile', line 14):
+#  recipe to execute (from 'Makefile', line 17):
 	migrate -path db/migration -database "postgresql://root:reginapost@localhost:5432/simple_bank?sslmode=disable" -verbose down
 
 # Not a target:
@@ -263,7 +252,7 @@ docker: /src -w /src kjconroy/sqlc generate
 # Not a target:
 Makefile:
 #  Implicit rule search has been done.
-#  Last modified 2022-06-09 13:29:15
+#  Last modified 2022-07-18 14:17:28
 #  File has been updated.
 #  Successfully updated.
 
@@ -273,6 +262,14 @@ kjconroy/sqlc:
 #  Modification time never checked.
 #  File has not been updated.
 
+mock:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 32):
+	mockgen -build_flags=--mod=mod -package mockdb -destination db/mock/store.go github.com/rewhatsmore/simplebank/db/sqlc Store
+
 dropdb:
 #  Phony target (prerequisite of .PHONY).
 #  Implicit rule search has not been done.
@@ -280,6 +277,22 @@ dropdb:
 #  File has not been updated.
 #  recipe to execute (from 'Makefile', line 8):
 	docker exec -it postgres14 dropdb simple_bank
+
+migratedown1:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 20):
+	migrate -path db/migration -database "postgresql://root:reginapost@localhost:5432/simple_bank?sslmode=disable" -verbose down 1
+
+server:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 26):
+	go run main.go
 
 migrateup:
 #  Phony target (prerequisite of .PHONY).
@@ -317,7 +330,7 @@ test:
 #  Implicit rule search has not been done.
 #  File does not exist.
 #  File has not been updated.
-#  recipe to execute (from 'Makefile', line 20):
+#  recipe to execute (from 'Makefile', line 29):
 	go test -v -cover ./...
 
 sqlc:
@@ -325,6 +338,14 @@ sqlc:
 #  Implicit rule search has not been done.
 #  File does not exist.
 #  File has not been updated.
+
+migrateup1:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 14):
+	migrate -path db/migration -database "postgresql://root:reginapost@localhost:5432/simple_bank?sslmode=disable" -verbose up 1
 
 # Not a target:
 /src:
@@ -354,25 +375,25 @@ createdb:
 #  recipe to execute (from 'Makefile', line 5):
 	docker exec -it postgres14 createdb --username=root --owner=root simple_bank
 
-.PHONY: postgres createdb dropdb migrateup migratedown sqlc test
+.PHONY: postgres createdb dropdb migrateup migratedown migrateup1 migratedown1 sqlc test server mock
 #  Implicit rule search has not been done.
 #  Modification time never checked.
 #  File has not been updated.
 
 # files hash-table stats:
-# Load=20/1024=2%, Rehash=0, Collisions=0/42=0%
+# Load=24/1024=2%, Rehash=0, Collisions=1/50=2%
 # VPATH Search Paths
 
 # No 'vpath' search paths.
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 28 / storage = 191 B / avg = 6 B
-# current buf: size = 8174 B / used = 191 B / count = 28 / avg = 6 B
+# strcache buffers: 1 (0) / strings = 40 / storage = 290 B / avg = 7 B
+# current buf: size = 8174 B / used = 290 B / count = 40 / avg = 7 B
 
-# strcache performance: lookups = 52 / hit rate = 46%
+# strcache performance: lookups = 72 / hit rate = 44%
 # hash-table stats:
-# Load=28/8192=0%, Rehash=0, Collisions=0/52=0%
-# Finished Make data base on Mon Jul 04 14:32:29 2022
+# Load=40/8192=0%, Rehash=0, Collisions=0/72=0%
+# Finished Make data base on Tue Jul 26 13:04:17 2022
 
  
